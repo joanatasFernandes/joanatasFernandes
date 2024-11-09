@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<h1 align="center">Bem-vindo ao meu GitHub!</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=40&lines=Desenvolvedor+Fullstack;Amante+de+Tecnologia;Aprendendo+Nest.js+🚀">
+</p>
 <!--
 **joanatasFernandes/joanatasFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
